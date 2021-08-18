@@ -1,0 +1,3 @@
+-Run the "internship_main.mlx" file .
+-In order to apply heater to different location , use the source node to specify the nodes at which the heater should be placed. 
+ 
